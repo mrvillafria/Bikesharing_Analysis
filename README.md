@@ -4,7 +4,7 @@
 For this week's project, we will be using Tableau, a data analysis and visualization tool. Tableau is great for helping us tell a story by providing us with the tools to create analytic dashboards. Creating clear and easy to read visualizations is helpful for stakeholders when making decisions. 
 
 ### Purpose
-The purpose of this week's project is to present a business proposal for a bike-sharing company. We will be creating visualizations based on data from a New York Citibike dataset. This information will be used to see if a bike-sharing company could be a good business investment in Des Moines. Using Tableau, we will be creating visualizations that show:
+The purpose of this week's project is to present a business proposal for a bike-sharing company. We will be creating visualizations based on data from a New York Citibike dataset. Citi Bikes is the nation's largest bike share program. This information will be used to see if a bike-sharing company could be a good business investment in Des Moines. Using Tableau, we will be creating visualizations that show:
 - What are the peak times for bike trips and how many bike trips were there in the month of August.
 - How long bikes are checked out for all riders and genders.
 - How many trips are taken by the hour for each day of the week, for all riders and genders.
@@ -18,7 +18,7 @@ To display our New York Citibike data, we created four dashboards with two visua
 
 #### August Peak Times and Total Number of Rides
 ![AugustOverview](/Resources/AugustOverview.PNG)
-The bar chart above displays the amount of bike trips per hour for the month of August. By looking at this chart, you can see the peak times are around 7am and between 5pm to 7pm. It can be assumed that these bikes are being used for commutes since they are around the times that people are going to or leaving work. I also included the total amount of rides in August on the upper right hand side. 
+The bar chart above displays the amount of bike trips per hour for the month of August. By looking at this chart, you can see the peak times are around 7am and between 5pm to 7pm. It can be assumed that these bikes are being used for commutes since they are around the times that people are going to or leaving work. I also included the total amount of rides in August on the upper right-hand side. 
 
 #### User Trips by Gender by Weekday and User Types
 ![UserTypesbyGenderbyWeekday](/Resources/UserTypesbyGenderbyWeekday.PNG)
@@ -30,7 +30,7 @@ The two heatmaps above show bike trips by weekday per hour. Trips by Weekday for
 
 #### Checkout Times
 ![CheckoutTimes](/Resources/CheckoutTimes.PNG)
-The two line charts above show the length of time that bikes are checked out. Checkout Times for Users shows how long bikes are checked out for all users. Checkout Times by Gender shows the same bike trip duration from the visualization above but broken out by gender. Regardless of gender, most bike trips are used for a short duration or less than one hour. There are a large number of bikes that are only being used for 5 minutes.
+The two line charts above show the length of time that bikes are checked out. Checkout Times for Users shows how long bikes are checked out for all users. Checkout Times by Gender shows the same bike trip duration information from the visualization above but broken out by gender. Regardless of gender, most bike trips are used for a short duration or less than one hour. There are a large number of bikes that are only being used for 5 minutes.
 
 
 ## Summary
