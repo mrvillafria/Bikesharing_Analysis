@@ -26,7 +26,7 @@ On the left, we have a heatmap that shows the number of bike trips by gender for
 
 #### Trips By Weekday 
 ![TripsByWeekday](/Resources/TripsByWeekday.PNG)
-The two heatmaps above show bike trips by weekday per hour. Trips by Weekday for Each Hour shows that there is a high number of trips taken Monday through Friday around 7am and between 5pm and 7pm. It also shows on weekends there's higher activity between 9am and 8pm. Trips by Gender (Weekday per Hour) shows the same bike trip information from the visualization above but broken out by gender. This chart confirms that there are more males that use the citi bikes.
+The two heatmaps above show bike trips by weekday per hour. Trips by Weekday for Each Hour shows that there is a high number of trips taken Monday through Friday around 7am and between 5pm and 7pm. It also shows on weekends there's higher activity between 9am and 8pm. Trips by Gender (Weekday per Hour) shows the same bike trip information from the visualization above but broken out by gender. This chart confirms that there are more males that use the Citi Bikes.
 
 #### Checkout Times
 ![CheckoutTimes](/Resources/CheckoutTimes.PNG)
