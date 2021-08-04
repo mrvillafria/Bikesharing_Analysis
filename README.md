@@ -34,3 +34,6 @@ The two line charts above show the length of time that bikes are checked out. Ch
 
 
 ## Summary
+Based on the visualizations above, there are a few key findings that I would like to highlight. By looking at the peek times and which days the bikes are most used, it looks like most users are using the bikes to commute to work. Also by looking at the users, there are more Subscribers than Customers. The Subscribers most likely live in the city so they can utilize the bikes regularly such as using the bikes to get to and from work or getting around on the weekends. Males also take the most bike trips. It has not been determined why there are more males using the bikes than females or unknown.
+
+If we had additional data, I would have liked to create visualizations on reasoning for bike trips. This can help clarify if the majority of bike trips are used for commuting. I think it would also be interesting to look at bike routes and accessibility. 
