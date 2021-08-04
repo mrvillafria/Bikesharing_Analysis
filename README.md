@@ -11,6 +11,9 @@ The purpose of this week's project is to present a business proposal for a bike-
 
 ## Results
 
+[link to dashboard](https://public.tableau.com/views/NYC-Citibike-Challenge_16279379182660/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link "Link to Dashboards/Story")
+
+
 #### August Peek Times and Total Number of Rides
 
 ![AugustOverview](/Resources/AugustOverview.PNG)
