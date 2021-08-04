@@ -13,6 +13,7 @@ The purpose of this week's project is to present a business proposal for a bike-
 ## Results
 
 To display our New York Citibike data, we created four dashboards with two visualizations per dashboards. We then combined the dashboards to create a story. 
+
 [Link to Tableau Dashboards/Story](https://public.tableau.com/views/NYC-Citibike-Challenge_16279379182660/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 #### August Peek Times and Total Number of Rides
@@ -25,10 +26,11 @@ On the left, we have a heatmap that shows the number of bike trips by gender for
 
 #### Trips By Weekday 
 ![TripsByWeekday](/Resources/TripsByWeekday.PNG)
-The two heatmaps above show bike trips by weekday per hour. Trips by Weekday for Each Hour shows that there is a high number of trips taken Monday through Friday around 7am and between 5pm and 7pm. It also shows on weekends there's higher activity between 9am and 8pm. Trips by Gender (Weekday per Hour) shows the same bike trip information from the visualization above but broken out by gender. This chart confirms that there are more males that use the citi bikes. 
+The two heatmaps above show bike trips by weekday per hour. Trips by Weekday for Each Hour shows that there is a high number of trips taken Monday through Friday around 7am and between 5pm and 7pm. It also shows on weekends there's higher activity between 9am and 8pm. Trips by Gender (Weekday per Hour) shows the same bike trip information from the visualization above but broken out by gender. This chart confirms that there are more males that use the citi bikes.
 
 #### Checkout Times
 ![CheckoutTimes](/Resources/CheckoutTimes.PNG)
+The two line charts above show the length of time that bikes are checked out. Checkout Times for Users shows how long bikes are checked out for all users. Checkout Times by Gender shows the same bike trip duration from the visualization above but broken out by gender. Regardless of gender, most bike trips are used for a short duration or less than one hour. There are a large number of bikes that are only being used for 5 minutes.
 
 
 ## Summary
